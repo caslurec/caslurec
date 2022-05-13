@@ -7,7 +7,7 @@ Web Developer
 Self taught HTML, CCS, Tailwind and Javascript.
 
 * 🌍  I'm based in Brasília
-* ✉️  You can contact me at [lucassousa4421@gmail.com](mailto:lucassousa4421@gmail.com)
+* ✉️  You can contact me at [dev.caslurec@gmail.com](mailto:dev.caslurec@gmail.com)
 * 🧠  I'm learning I'm currently learning Javascript and React
 * ⚡  Open to work...
 
